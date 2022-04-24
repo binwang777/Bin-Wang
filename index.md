@@ -1,10 +1,10 @@
-## LHconcat
+# LHconcat
 
 ## About us
 
 ## Member Introduction
-# Leader
-# Students
+### Leader
+### Students
 
 ## Our work
 
