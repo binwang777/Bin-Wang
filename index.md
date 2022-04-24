@@ -17,7 +17,7 @@ Wang Bin, graduate student (second year)
 
 Liu Zhe, graduate student (second year)
 
-Li Shao Ji, Li Jia Ying, Zhang Kun Peng graduate student (first year)
+Li Shao Ji, Li Jia Ying, Zhang Kun Peng, graduate student (first year)
 
 ## Our Works
 Self-supervised Learning and Adaptation for Single Image Dehazing（IJCAI-ECAI2022 Long Presentation）
