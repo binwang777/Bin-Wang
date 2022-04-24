@@ -10,13 +10,16 @@ Currently our main direction is low-level vision tasks such as super-resolution,
 ### Leader
 Liang Yudong, Ph.D., associate professor. His research interests are computer vision, image processing, and computer vision, focusing on image enhancement (image dehazing, super-resolution), image quality evaluation, and low-quality image target detection.
 
-http://cs.sxu.edu.cn/faculty/associate_professor/4617/index.htm
+details is here: http://cs.sxu.edu.cn/faculty/associate_professor/4617/index.html
+
 ### Students
 Wang Bin, graduate student (second year)
 
 Liu Zhe, graduate student (second year)
 
-## Our work
+Li Shao Ji, Li Jia Ying, Zhang Kun Peng graduate student (first year)
+
+## Our Works
 Self-supervised Learning and Adaptation for Single Image Dehazing（IJCAI-ECAI2022 Long Presentation）
 link:https://github.com/binwang777/SLA-Dehaze
 
@@ -32,7 +35,7 @@ Yudong Liang, Radu Timofte, Jinjun Wang, Yihong Gong and Nanning Zheng. Single i
 
 Yudong Liang, Jinjun Wang, Yihong Gong and Nanning Zheng. Incorporating Image Priors with Deep Convolutional Neural Networks for Image Super-Resolution. Neurocomputing, 2016, 194: 340-347.
 
-Waiting to receive
+### Waiting to accept
 Yudong Liang, Zhe Liu, Bin Wang, Wenqi Ren, Yuhua Qian, Wangmeng Zuo, From Easy to Hard : Learning to Dehaze via Curriculum Learning. 2022.
 
 Yudong Liang, Bin Wang, Wenqi Ren, Jiaying Liu, Wangmeng Zuo, Depth-Guided Hierarchical Dynamics for Image Dehazing.(Submitted to ACMMM2022)
