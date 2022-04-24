@@ -3,7 +3,7 @@
 ## About us
 LHconcat is from the School of Computer Science, Shanxi University.    http://cs.sxu.edu.cn/
 
-Currently our main direction is low-level vision tasks such as super-resolution, image dehazing, low-light enhancement and image dehazing. At the same time, we are also actively exploring the combination of high and low-level tasks. Such as detection, identification and segmentation in severe weather environments.
+Currently our main direction is low-level vision tasks such as super-resolution, image dehazing, low-light enhancement and image derain. At the same time, we are also actively exploring the combination of high and low-level tasks. Such as detection, identification and segmentation in severe weather environments.
 
 
 ## Member Introduction
