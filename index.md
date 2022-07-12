@@ -2,9 +2,11 @@
 Graduate Student
 
 ## About Me
-Currently my main direction is low-level vision tasks such as super-resolution, image dehazing, low-light enhancement and image derain.</p>
+Currently my main direction is low-level vision tasks such as super-resolution, image dehazing, low-light enhancement and image derain. </p>
+
 My current research interests focus on unified enhancement models for multiple classes of low-quality images. Strategies such as incremental learning, multimodal guidance, contrastive learning, self-supervised learning, and multi-stage inpainting are being attempted to tackle this challenge.
-You can follow one of our new work closely related to this direction (accepted by ACMMM2022):</p>
+You can follow one of our new work closely related to this direction (accepted by ACMMM2022):  </p>
+
 Learning Hierarchical Dynamics with Spatial Adjacency for Image Enhancement
 ## My Works
 Self-supervised Learning and Adaptation for Single Image Dehazing（IJCAI-ECAI2022 Long Presentation）
