@@ -12,7 +12,8 @@ Use multi-modal, large model and other strategies to achieve open-world obeject 
 ## My Works
 Self-supervised Learning and Adaptation for Single Image Dehazing(IJCAI-ECAI2022 Long Presentation)\
 link:(https://github.com/DongLiangSXU/SLAdehazing) \
-Yudong Liang, Bin Wang, Wenqi Ren, Jiaying Liu, Wangmeng Zuo, Learning Hierarchical Dynamics with Spatial Adjacency for Image Enhancement.(ACMMM2022 Poster)\
+Learning Hierarchical Dynamics with Spatial Adjacency for Image Enhancement.(ACMMM2022 Poster) \
 ### Please contact me if necessary
 
 202022407046@email.sxu.edu.cn
+wangbin10@360.cn
