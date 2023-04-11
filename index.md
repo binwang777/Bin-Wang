@@ -10,7 +10,7 @@ My research interests focus on unified enhancement models for multiple classes o
 Use multi-modal, large model and other strategies to achieve open-world obeject detection, unified weather repair large model.
 
 ## My Works
-Self-supervised Learning and Adaptation for Single Image Dehazing（IJCAI-ECAI2022 Long Presentation）\
+Self-supervised Learning and Adaptation for Single Image Dehazing(IJCAI-ECAI2022 Long Presentation)\
 link:(https://github.com/DongLiangSXU/SLAdehazing)\
 Yudong Liang, Bin Wang, Wenqi Ren, Jiaying Liu, Wangmeng Zuo, Learning Hierarchical Dynamics with Spatial Adjacency for Image Enhancement.(ACMMM2022 Poster)\
 ### Please contact me if necessary
