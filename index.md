@@ -1,5 +1,5 @@
 # Wang Bin
-Graduate Student(Shanxi University 2020-2023)
+Graduate Student(Shanxi University 2020-2023) \
 Computer Vision Algorithm Engineer(2023-cur Beijing QiHu 360 AI Institute)
 
 ## About Me
